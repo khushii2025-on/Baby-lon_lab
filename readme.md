@@ -1,0 +1,1 @@
+This lab demonstrates the extension for the babylon scene that we created in the lesson 2 with the inclusion of 2 more mesh objects.
